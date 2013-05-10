@@ -20,6 +20,7 @@ public class MainActivity extends Activity implements OnClickListener
 		btn = (Button) findViewById(R.id.button1);
 		btn.setOnClickListener(this);
 		// Some stuff to commit
+		// Some more comments to commit and push to github
 	}
 
 	@Override
